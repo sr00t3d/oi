@@ -2,6 +2,8 @@
 
 # oi
 
+![Capa do oi](oi-cover.webp)
+
 [![Versão](https://img.shields.io/badge/version-2.0.0-blue.svg)](https://github.com/sr00t3d/oi/releases/tag/v2.0.0)
 [![Licença](https://img.shields.io/badge/license-Apache--2.0-green.svg)](LICENSE)
 [![Bash](https://img.shields.io/badge/bash-4.0%2B-orange.svg)](#uso)
